@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bhaveshjangir&label=Profile%20views&color=0e75b6&style=flat" alt="bhaveshjangir" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bhaveshjangir" alt="bhaveshjangir" /></a> </p>
+<-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bhaveshjangir" alt="bhaveshjangir" /></a> </p> -->
 
 - 🔭 My recent delivered and deployed project [CowCare - Balaji Guashala](https://play.google.com/store/apps/details?id=com.twodev.hamarigaushala)
 
