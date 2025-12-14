@@ -19,26 +19,11 @@ I am a **Software Engineer** bridging the gap between mobile engineering and mod
 
 ### 📉 Engineering Metrics & Analytics
 
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=bhaveshjangir&theme=tokyonight&no-frame=true&column=7&margin-w=15&margin-h=15" />
-</div>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=bhaveshjangir&show_icons=true&locale=en&layout=compact" alt="bhaveshjangir" /></p>
 
-<br/>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=bhaveshjangir&show_icons=true&locale=en" alt="bhaveshjangir" /></p>
 
-<div align="center">
-  <a href="https://github.com/bhaveshjangir">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=bhaveshjangir&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true" height="180" alt="stats graph" />
-  </a>
-  <a href="https://github.com/bhaveshjangir">
-    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bhaveshjangir&theme=tokyonight&hide_border=true" height="180" alt="streak graph" />
-  </a>
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=bhaveshjangir&show_icons=true&locale=en&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="languages graph" />
-</div>
+<!-- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bhaveshjangir&" alt="bhaveshjangir" /></p> -->
 
 ---
 
