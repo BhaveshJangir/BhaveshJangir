@@ -17,16 +17,6 @@ I am a **Software Engineer** bridging the gap between mobile engineering and mod
 
 ---
 
-### 📉 Engineering Metrics & Analytics
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=bhaveshjangir&show_icons=true&locale=en&layout=compact" alt="bhaveshjangir" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=bhaveshjangir&show_icons=true&locale=en" alt="bhaveshjangir" /></p>
-
-<!-- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bhaveshjangir&" alt="bhaveshjangir" /></p> -->
-
----
-
 ### 🛠️ Technical Arsenal
 
 | **Domain** | **Technologies** |
@@ -35,6 +25,17 @@ I am a **Software Engineer** bridging the gap between mobile engineering and mod
 | **🌐 Web Dev** | <img src="https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white"/> <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/> <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/> |
 | **📱 Mobile** | <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white"/> <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white"/> <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white"/> |
 | **🗄️ Backend/DB** | <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/> <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black"/> <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/> |
+
+---
+
+
+### 📉 Engineering Metrics & Analytics
+
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=bhaveshjangir&show_icons=true&locale=en&layout=compact" alt="bhaveshjangir" /></p>
+
+<!-- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=bhaveshjangir&show_icons=true&locale=en" alt="bhaveshjangir" /></p> -->
+
+<!-- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bhaveshjangir&" alt="bhaveshjangir" /></p> -->
 
 ---
 
